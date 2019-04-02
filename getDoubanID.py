@@ -85,5 +85,6 @@ def generate_ID(nondup_name_list):  # 给定剧单（剧名列表）
     return id_list, name_list
 
 
-# nondup_name_list = ['战火西北狼','武林外传']
+# nondup_name_list = ['战火西北狼','武林外传', '倚天屠龙记']
 # id_list,name_list = generate_ID(nondup_name_list)
+
